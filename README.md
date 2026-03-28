@@ -1,2 +1,11 @@
-# student-grade-system
-i built this simple student grade system using Python as part of my learning journey.It calculates average marks and assigns grades.This project helped me understand basic programming concepts and problem solving
+Student Grade System
+   This is a simple Python project that calculates a student´s average marks and assigns a grade.
+Features includes
+  Takes inputes for three subjects 
+  calculates average
+  Assigns grade(A,B,C,etc)
+  shows pass/fail status
+
+
+
+  By Tihitna Mektie
